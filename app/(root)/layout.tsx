@@ -10,7 +10,7 @@ import BottomBar from "@/components/shared/BottomBar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-    title: "Fibers",
+    title: "Fables",
     description: "A Next.js 13 Social Application",
 };
 

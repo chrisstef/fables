@@ -4,7 +4,7 @@ import { Inter } from "next/font/google";
 import "../globals.css";
 
 export const metadata = {
-    title: "Fibers",
+    title: "Fables",
     description: "A Next.js 13 Social Application",
 };
 
